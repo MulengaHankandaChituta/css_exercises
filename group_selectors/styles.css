@@ -1,0 +1,17 @@
+.click-1 {
+  background-color: black;
+  border-right: 1px solid white;
+}
+
+.click-2 {
+  background-color: yellow;
+  border-left: 1px solid white;
+}
+
+.click-1,
+.click-2 {
+  color: white;
+  border-radius: 1px solid black;
+  font-size: 28px;
+  font-family: helvetica, Times New Roman, sans-serif;
+}
